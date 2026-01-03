@@ -53,7 +53,4 @@ o	And finally, if a student got an Average_Score greater than or equal to 80, he
 Challenges Faced In Cleaning The Dataset.
 1.	Inconsistent Data Types.
 2.	Missing or Null Values.
-3.	Inconsistent Text Formatting.
-4.	Logical issues.
-
-
+3.	Inconsist3.	Inconsistent Text Formatting.
